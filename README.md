@@ -1,7 +1,8 @@
 ###                                                                     Hi 👋
 
 # 💫 About Me:
-🔭 I graduated from İnonu University Computer Engineering.<br><br>⚡ I'm interested in Unity and Unreal Engine.<br><br>⚡I make computer and mobile games.<br><br>💬 How can we contact ?<br>      💬ercankayahusnu@gmail.com<br>
+🔭 I graduated from İnonu University Computer Engineering.<br><br>⚡ I'm interested in Unity and Unreal Engine.<br><br>⚡I make computer and mobile games.<br><br>💬 How can we contact ?<br>      💬ercankayahusnu@gmail.com<br>  <p><img aling="center" src="https://github.com/ercankayahusnu/GIF1/blob/main/tumblr_c44268f1f2dd98c5c3b785ca7f3877a3_9438427f_1280.gif" width="900" height="200" /></p> 
+
 
 
 ## 🌐 Socials:
