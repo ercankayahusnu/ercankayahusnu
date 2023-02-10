@@ -20,6 +20,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ercankayahusnu&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<img src="images/![tumblr_c44268f1f2dd98c5c3b785ca7f3877a3_9438427f_1280](https://user-images.githubusercontent.com/64314788/218192300-b1e832a9-481e-4777-8af1-883e72b65766.gif)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
