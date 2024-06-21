@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Husnu Ercankaya</h1>
 <h3 align="center">As a young person determined to step into the business world, I am very interested in the Java Developer position due to my interest in software and my desire to make a career. I generally develop my projects with Java, Spring Boot, Hibernate, Kubernetes, Docker, Kafka, Redis, RESTful API, PostgreSQL, MsSQL, Firebase and Git technologies and tools. During and after my university education, I have been improving myself, especially in backend technologies and tools.</h3>
 
-   [![MasterHead](https://camo.githubusercontent.com/414cf50bc6c7297931297d13ede96b13188d463ef7bb2ec7495d45ed05b11976/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f487363444c7a6b4f38454f546d676b6851502f67697068792e676966)
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ercankayahusnu&label=Profile%20views&color=0e75b6&style=flat" alt="ercankayahusnu" /> </p>
