@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Husnu Ercankaya</h1>
-<h3 align="center">As a young person determined to step into the business world, I am very interested in the Java Developer position due to my interest in software and my desire to make a career. I generally develop my projects with Java, Spring Boot, Hibernate, Kubernetes, Docker, Kafka, Redis, RESTful API, PostgreSQL, MsSQL, Firebase and Git technologies and tools. During and after my university education, I have been improving myself, especially in backend technologies and tools.</h3>
+<h3 align="center">Backend geliştirmeye odaklı, analitik düşünme becerisi ve güçlü takım iletişimiyle öne çıkan bir yazılım geliştiriciyim. Django ve Java projelerinde, veritabanı modelleme, API entegrasyonu ve sürdürülebilir kod üretimi konularında uygulamalı deneyim sahibiyim. Gelişime açık, yapıcı geri bildirim alan ve çevik metodolojilerle uyumlu bir çalışma stilim var.</h3>
 
 
 
